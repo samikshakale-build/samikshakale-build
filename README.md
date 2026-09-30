@@ -1,9 +1,9 @@
 ## Hi there 👋
- I am Samiksha Kale 
- I am a second year cse student 
- I'm currently a student of COEP Technological University 
- I know C,Python and C++
- I am interested in learning in coding 
+ I am Samiksha Kale .
+ I am a second year cse student. 
+ I'm currently a student of COEP Technological University .
+ I know C,Python and C++.
+ I am interested in learning in coding.
 <!--
 **samikshakale-build/samikshakale-build** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
